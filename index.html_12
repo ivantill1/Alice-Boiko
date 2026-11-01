@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Веб-типографика и шрифты в CSS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="content-container">
+        <h1>Искусство веб-типографики</h1>
+        <p class="lead-paragraph">Правильный выбор шрифтов и грамотная иерархия делают текст не только красивым, но и легко читаемым для каждого пользователя.</p>
+        
+        <blockquote class="quote-box">
+            <p>Дизайн — это не то, как предмет выглядит, а то, как он работает.</p>
+        </blockquote>
+    </main>
+</body>
+</html>
