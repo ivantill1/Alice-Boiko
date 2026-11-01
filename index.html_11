@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Практика CSS: Продвинутые эффекты</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="hero-banner">
+        <div class="glass-card">
+            <h1>Привет, я Элис Бойко!</h1>
+            <p>Работа с цветом, фоном и градиентами</p>
+            <button class="cta-button">Нажми на меня</button>
+        </div>
+    </header>
+</body>
+</html>
