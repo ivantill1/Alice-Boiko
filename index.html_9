@@ -8,7 +8,7 @@
 <body>
     <div class="profile-card">
         <h1>Элис Бойко</h1>
-        <p>Изучаю CSS и веб-разработку</p>
+        <p>Синтаксис и подключение</p>
         <button>Кнопка</button>
     </div>
 </body>
