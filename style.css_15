@@ -7,7 +7,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f8fafc;
-    color: #334155;
+    color: #334150;
 }
 
 .header {
